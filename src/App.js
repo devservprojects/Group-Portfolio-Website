@@ -7,7 +7,7 @@ function App() {
         <h1 style={{textAlign: "center"}}>
         A<br/>
         S<br/>
-        W
+        Winnie
         </h1>
       </div>
     </div>
